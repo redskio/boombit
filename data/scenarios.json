@@ -101,12 +101,12 @@
       "success": {
         "text": "정답. 숫자들이 빛나며 벽이 열린다. 피보나치 — 이 세계도 수학의 법칙을 따르는군.",
         "traits": { "rational": 2 },
-        "next": "s003"
+        "next": null
       },
       "failure": {
         "text": "벽이 붉게 빛난다. 하지만 사라지지 않는다. 이 세계는 실패에도 관대한 듯하다.",
         "traits": { "chaotic": 1 },
-        "next": "s003"
+        "next": null
       }
     }
   ],
